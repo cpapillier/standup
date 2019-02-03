@@ -1,8 +1,8 @@
 {
-  "name": "@socialgouv/standup",
+  "name": "@cpapillier/standup",
   "version": "1.0.0",
   "keywords": [],
-  "homepage": "https://socialgouv.github.io/standup/",
+  "homepage": "https://cpapillier.github.io/standup/",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.7.0",
@@ -17,15 +17,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "author": "Julien Bouquillon <julien.bouquillon@sg.social.gouv.fr>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/socialgouv/standup.git"
-  },
-  "bugs": {
-    "url": "https://github.com/socialgouv/standup/issues"
   },
   "browserslist": [
     ">0.2%",
