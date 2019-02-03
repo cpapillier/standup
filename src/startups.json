@@ -1,7 +1,7 @@
 [
   {
-    "titre": "Work In France",
-    "timeout": 120,
+    "titre": "chatbot",
+    "timeout": 60,
     "description": "La plateforme de demande d'autorisation provisoire de travail pour les étudiants étrangers"
   },
   {
